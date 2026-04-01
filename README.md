@@ -1,15 +1,15 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Hamid</h1>
-<h3 align="center">Data Scientist • AI Engineer • Building real-world intelligent systems</h3>
+<h3 align="center">Data Scientist • AI Engineer • Building intelligent systems from real-world data</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+RAG+systems;Scaling+AI+in+real-world+applications;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+RAG+systems;Scaling+AI+in+production;Learning+something+new+every+day" />
 </p>
 
-<!-- GIF (STABLE) -->
+<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -17,148 +17,69 @@
 ## 🧠 About Me
 
 - 🔭 Working on **AI systems for agriculture using sensor data**  
-- ⚙️ Building **RAG-based decision support systems**  
-- 📊 Focused on **data pipelines + production ML systems**  
+- ⚙️ Building **RAG-based decision systems**  
+- 📊 Focused on **data pipelines & real-world ML**  
 - 🌍 Based in Italy  
 
 ---
 
-## ⚡ What I’m Exploring
-
-- 🤖 LLM reasoning systems  
-- ☁️ Cost-efficient AI infrastructure  
-- 🔗 Scalable data pipelines  
-
----
-
-## 🛠️ Tech Stack
+## ⚡ What I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,aws,postgres,linux,git" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  Python • PyTorch • TensorFlow • Docker • AWS • SQL
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Top Languages (Visual Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamidSadi&show_icons=true&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400"/>
 </p>
 
----
-
-## 📈 Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidSadi&layout=compact&theme=tokyonight" />
+  🐍 Python dominates • ⚙️ Systems & Data • 🤖 AI-focused stack
 </p>
 
 ---
 
 ## 🚀 What I Build
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+</p>
+
 - 🌱 AI for agriculture decision-making  
-- 📡 Sensor data → real-time insights  
-- 🧠 Retrieval-Augmented Generation (RAG) systems  
+- 📡 Sensor data → insights  
+- 🧠 RAG (Retrieval-Augmented Generation) systems  
 - ⚡ Scalable ML pipelines  
 
 ---
 
 ## 📍 Now
 
-- Building real-world AI systems in agriculture  
-- Improving ML system design & scalability  
-- Preparing for advanced AI engineering roles  
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamidSadi&style=flat-square&color=22C55E" />
-</p>
+- Building real-world AI systems  
+- Improving ML scalability  
+- Moving toward advanced AI engineering roles  
 
 ---
 
 ## ☕ Fun Fact
 
-I enjoy turning messy, real-world data into systems that actually make decisions.<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Hamid</h1>
-<h3 align="center">Data Scientist • AI Engineer • Building real-world intelligent systems</h3>
-
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+RAG+systems;Scaling+AI+in+real-world+applications;Always+learning+something+new" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
 </p>
-
----
-
-## 🧠 About Me
-
-- 🔭 Working on **AI systems for agriculture using sensor data**  
-- ⚙️ Building **RAG-based decision support systems**  
-- 📊 Focused on **data pipelines + production ML systems**  
-- 🌍 Based in Italy  
-
----
-
-## ⚡ What I’m Exploring
-
-- 🤖 LLM reasoning systems  
-- ☁️ Cost-efficient AI infrastructure  
-- 🔗 Scalable data pipelines  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,aws,postgres,linux,git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamidSadi&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidSadi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 What I Build
-
-- 🌱 AI for agriculture decision-making  
-- 📡 Sensor data → real-time insights  
-- 🧠 Retrieval-Augmented Generation (RAG) systems  
-- ⚡ Scalable ML pipelines  
-
----
-
-## 📍 Now
-
-- Building real-world AI systems in agriculture  
-- Improving ML system design & scalability  
-- Preparing for advanced AI engineering roles  
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamidSadi&style=flat-square&color=22C55E" />
-</p>
-
----
-
-## ☕ Fun Fact
 
 I enjoy turning messy, real-world data into systems that actually make decisions.
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamidSadi&style=flat-square&color=22C55E" />
+</p>
