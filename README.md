@@ -90,12 +90,10 @@ Python • PyTorch • TensorFlow • Docker • AWS • SQL • Linux • Git
 ## 🐍 GitHub Contributions Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HamidSadi/HamidSadi/main/dist/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="dist/snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <em>⚠️ Make sure the <a href="https://github.com/Platane/snk" target="_blank">Platane GitHub Action</a> is set up to generate this snake automatically!</em>
-</p>
+
 ---
 
 <!-- ================= FUN / PERSONALITY ================= -->
