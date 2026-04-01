@@ -2,13 +2,12 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight
-  workflow_dispatch:      # allows manual trigger
+    - cron: '0 0 * * *'   # daily at midnight
+  workflow_dispatch:      # manual trigger
 
 jobs:
   snake:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
@@ -17,12 +16,10 @@ jobs:
         with:
           github_user_name: HamidSadi
           outputs: |
-            dist/github-contribution-snake.svg
+            snake.svg
 
-      - name: Commit & Push Snake
-        uses: EndBug/add-and-commit@v9
+      - name: Upload snake as artifact
+        uses: actions/upload-artifact@v3
         with:
-          author_name: "github-actions[bot]"
-          author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "Update GitHub contribution snake"
-          add: "dist/github-contribution-snake.svg"
+          name: github-snake
+          path: snake.svg
