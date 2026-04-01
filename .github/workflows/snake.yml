@@ -8,6 +8,7 @@ on:
 jobs:
   snake:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
@@ -19,7 +20,7 @@ jobs:
             snake.svg
 
       - name: Upload snake as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3.1.1
         with:
           name: github-snake
           path: snake.svg
