@@ -92,8 +92,10 @@ Python • PyTorch • TensorFlow • Docker • AWS • SQL • Linux • Git
 <p align="center">
   <img src="https://raw.githubusercontent.com/HamidSadi/HamidSadi/main/dist/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-> ⚠️ Make sure you set up the [Platane GitHub Action](https://github.com/Platane/snk) to generate the snake.
 
+<p align="center">
+  <em>⚠️ Make sure the <a href="https://github.com/Platane/snk" target="_blank">Platane GitHub Action</a> is set up to generate this snake automatically!</em>
+</p>
 ---
 
 <!-- ================= FUN / PERSONALITY ================= -->
