@@ -16,7 +16,6 @@ jobs:
         uses: Platane/snk@v3.4.1
         with:
           github_user_name: HamidSadi
-          # output path can be gif or svg
           outputs: |
             dist/github-contribution-snake.svg
 
