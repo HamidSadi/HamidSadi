@@ -1,0 +1,28 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HamidSadi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit & Push Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "Update GitHub contribution snake"
+          add: "dist/github-contribution-grid-snake.svg"
